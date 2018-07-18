@@ -1,3 +1,7 @@
 world
 hello
+
+function(){
+	hello world;
+	}
 haha
