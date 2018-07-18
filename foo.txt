@@ -1,2 +1,6 @@
 world
 hello
+
+function(){
+	hello world;
+	}
